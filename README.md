@@ -16,8 +16,8 @@
 
 - **经文驱动**：讲道必须从经文本身出发，不是拿经文支持讲员已有的主题
 - **福音中心**：每次讲道最终指向耶稣基督的死与复活，祂已成就的救恩
-- **防道德主义**：不讲"你要更努力"，而是讲"你做不到的，基督已经替你成就"
-- **防反律法主义**：不讲"反正有恩典所以不必顺服"，而是讲"福音如何产生真实的悔改与顺服"
+- **预防律法主义**：不讲"你要更努力"，而是讲"你做不到的，基督已经替你成就"
+- **预防反律法主义**：不讲"反正有恩典所以不必顺服"，而是讲"福音如何产生真实的悔改与顺服"
 - **每次只问一个问题**：不给用户填表式的十几道题，而是一问一答，持续追问
 
 ### 工作流程（六个阶段）
@@ -63,7 +63,7 @@ An AI-powered **expository sermon preparation coach**. It does NOT write sermons
 
 - **Text-driven**: The sermon must emerge from the biblical text, not use the text to support a pre-chosen theme
 - **Gospel-centered**: Every sermon must ultimately point to Christ's death and resurrection and the salvation already accomplished in Him
-- **Against moralism**: Not "try harder to please God," but "what you cannot do, Christ has done for you"
+- **Against legalism**: Not "try harder to please God," but "what you cannot do, Christ has done for you"
 - **Against antinomianism**: Not "grace means no need for obedience," but "how the gospel produces genuine repentance and obedience"
 - **One question at a time**: No long questionnaires — just one question, one answer, relentless follow-up
 
