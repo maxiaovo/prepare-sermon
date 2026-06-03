@@ -10,7 +10,9 @@
 
 ## 🙏 讲道预备技能（Sermon Prep）
 
-一个 AI 驱动的**释经式讲道预备教练**，不是替牧师写讲章，而是像一位严厉但有建设性的导师，通过持续追问，帮助讲员一步一步压实经文观察、解释、福音连接、应用和讲道大纲。
+一个 AI 驱动的**释经式讲道预备引导工具**。它**不给答案、不替人写讲章**，而是像一个谦卑的助手，通过持续追问，引导讲员在祷告中一步一步完成经文观察、解释、福音连接、应用和讲道大纲。
+
+> **AI 只是工具，圣灵才是教师。改变人心的不是讲道稿，而是圣灵。**
 
 ### 核心理念
 
@@ -18,7 +20,10 @@
 - **福音中心**：每次讲道最终指向耶稣基督的死与复活，祂已成就的救恩
 - **预防律法主义**：不讲"你要更努力"，而是讲"你做不到的，基督已经替你成就"
 - **预防反律法主义**：不讲"反正有恩典所以不必顺服"，而是讲"福音如何产生真实的悔改与顺服"
+- **引导而非给答案**：每个问题提供的是思考方向，不是标准答案。答案需要讲员自己在经文里、在祷告里、在圣灵的光照中寻找
 - **每次只问一个问题**：不给用户填表式的十几道题，而是一问一答，持续追问
+- **提醒祷告与属灵争战**：预备讲道不是写稿过程，而是属灵争战。各阶段定期提醒用户停下来祷告
+- **保持谦卑，不要有压力**：讲员自己也是需要福音的人。忠心地传讲，把结果交给圣灵
 
 ### 工作流程（六个阶段）
 
@@ -57,7 +62,9 @@ MIT License
 
 ## 🙏 Sermon Prep Skill
 
-An AI-powered **expository sermon preparation coach**. It does NOT write sermons for you. Instead, it acts like a demanding yet constructive mentor, relentlessly interviewing the preacher through six sequential phases — text observation, interpretation, gospel connection, application, and sermon outline.
+An AI-powered **expository sermon preparation guide**. It does **not** give answers and does **not** write sermons for you. Instead, it acts as a humble assistant, persistently questioning the preacher through six sequential phases — text observation, interpretation, gospel connection, application, and sermon outline — while regularly reminding the preacher to pray and rely on the Holy Spirit.
+
+> **AI is only a tool. The Holy Spirit is the Teacher. What changes hearts is not the sermon manuscript, but the Holy Spirit.**
 
 ### Core Philosophy
 
@@ -65,7 +72,10 @@ An AI-powered **expository sermon preparation coach**. It does NOT write sermons
 - **Gospel-centered**: Every sermon must ultimately point to Christ's death and resurrection and the salvation already accomplished in Him
 - **Against legalism**: Not "try harder to please God," but "what you cannot do, Christ has done for you"
 - **Against antinomianism**: Not "grace means no need for obedience," but "how the gospel produces genuine repentance and obedience"
-- **One question at a time**: No long questionnaires — just one question, one answer, relentless follow-up
+- **Guide, don't give answers**: Every question offers a thinking angle, not a standard answer. The answers must come from the preacher's own time in the text, in prayer, and under the illumination of the Holy Spirit
+- **One question at a time**: No long questionnaires — just one question, one answer, persistent follow-up
+- **Prayer & spiritual warfare reminders**: Sermon preparation is not a writing exercise — it is spiritual warfare. The guide periodically prompts the user to stop and pray
+- **Stay humble, no pressure**: The preacher is also someone who needs the gospel. Preach faithfully, and entrust the results to the Holy Spirit
 
 ### Workflow (Six Phases)
 
